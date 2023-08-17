@@ -1,5 +1,5 @@
 # Food Delivery App Data Analysis
-In this project, you will be working on a real-world dataset of zomato, one of the most used food ordering platforms. This project aims on cleaning the dataset, analyze the given dataset, and mining informational quality insights.
+In this project, a real-world dataset from Zomato, one of the most widely used food ordering platforms, was worked on. The objective of the project was to clean the dataset, analyze the provided data, and extract insights of informational quality.
 
 ## Project Description
 This project will help you understand how a real-world database is analyzed using SQL, how to get maximum available insights from the dataset, pre-process the data using python for better upcoming performance, and how a structured query language helps us retrieve useful information from the database.
